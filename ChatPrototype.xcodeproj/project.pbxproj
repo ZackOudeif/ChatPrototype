@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		941FA4642D4539CE00677A58 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941FA4632D4539CE00677A58 /* ContentView.swift */; };
 		949F60C32D444A62006635DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F60C22D444A62006635DA /* AppDelegate.swift */; };
 		949F60C52D444A62006635DA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F60C42D444A62006635DA /* SceneDelegate.swift */; };
 		949F60C72D444A62006635DA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F60C62D444A62006635DA /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		941FA4632D4539CE00677A58 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		949F60BF2D444A62006635DA /* ChatPrototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatPrototype.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		949F60C22D444A62006635DA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		949F60C42D444A62006635DA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				949F60C22D444A62006635DA /* AppDelegate.swift */,
 				949F60C42D444A62006635DA /* SceneDelegate.swift */,
 				949F60C62D444A62006635DA /* ViewController.swift */,
+				941FA4632D4539CE00677A58 /* ContentView.swift */,
 				949F60C82D444A63006635DA /* Main.storyboard */,
 				949F60CB2D444A6A006635DA /* Assets.xcassets */,
 				949F60CD2D444A6A006635DA /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				949F60C72D444A62006635DA /* ViewController.swift in Sources */,
 				949F60C32D444A62006635DA /* AppDelegate.swift in Sources */,
+				941FA4642D4539CE00677A58 /* ContentView.swift in Sources */,
 				949F60C52D444A62006635DA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
